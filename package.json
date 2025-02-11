@@ -1,0 +1,21 @@
+{
+  "name": "innohub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+"scripts": {
+  "start": "node server.js",
+  "build": "echo 'No build step defined, add one if needed'"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StickersHUB1/InnoHUB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StickersHUB1/InnoHUB/issues"
+  },
+  "homepage": "https://github.com/StickersHUB1/InnoHUB#readme"
+}
